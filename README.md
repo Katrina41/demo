@@ -1,20 +1,21 @@
 # 软件下载
+ 
+http://www.sublimetext.com  
+https://desktop.github.com/ 
 
-[sublime text](http://www.sublimetext.com)
-[github for mac](https://desktop.github.com/)
-
+# 导航网
 
 http://jsdig.com
+
+
+
+
 
 http://www.sketchcn.com/index.html
 http://www.sketchcn.com/sketch-chinese-user-manual.html
 
 http://sketchtoolbox.com
 
-http://www.sublimetext.com
-
-
-https://desktop.github.com/
 
 http://geticonjar.com
 
